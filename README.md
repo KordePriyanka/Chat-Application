@@ -6,7 +6,7 @@ This is a desktop application which will help people to chat each other. Here we
 ## IDE used:
 Eclipse
 
-# Screenshot
+## Screenshot
 ## Server:
 ![image](https://github.com/KordePriyanka/Chatting-Application-in-Java/assets/98102061/88acd3fc-6785-4388-b68f-7a103a3e8f20)
 ## Client:
