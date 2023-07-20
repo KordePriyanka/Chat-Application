@@ -8,6 +8,8 @@ Eclipse
 
 ## Screenshot
 ## Server:
-![image](https://github.com/KordePriyanka/Chatting-Application-in-Java/assets/98102061/88acd3fc-6785-4388-b68f-7a103a3e8f20)
+![image](https://github.com/KordePriyanka/Chat-Application-in-Java/assets/98102061/69dc9e1f-eadf-4ac7-9658-7fa787216152)
+
 ## Client:
-![image](https://github.com/KordePriyanka/Chatting-Application-in-Java/assets/98102061/79fdef5b-9bd0-46b7-ada9-e79455443c57)
+![image](https://github.com/KordePriyanka/Chat-Application-in-Java/assets/98102061/ee828ae3-7f9b-42db-81b8-c18d54bd9922)
+
